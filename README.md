@@ -1,0 +1,2 @@
+# rupees
+Rupees is a Digital Asset Based Decentralized Currency Token. Backed by Waves Technology. It is open source and supports Cashless Society. Send and Receive, Shop with instant transactions using RUPEES. And Exchange, Buy and Sell with Bitcoin / Waves at Various Exchanges. Project Rupees will help Promote Interest Free Banking, Child Welfare, Education Scholarships and Other Charitable Services
